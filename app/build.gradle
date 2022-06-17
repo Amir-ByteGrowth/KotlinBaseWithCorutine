@@ -9,13 +9,13 @@ apply plugin: 'dagger.hilt.android.plugin'
 
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 32
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.daniyalirfan.kotlinbasewithcorutine"
+        applicationId "com.amirjaveed.kotlinbasewithmvvm"
         minSdkVersion 21
-        targetSdkVersion 29
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
 
